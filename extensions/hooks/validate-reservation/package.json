@@ -1,0 +1,12 @@
+{
+  "name": "directus-hook-validate-reservation", 
+  "version": "1.0.0",
+  "description": "Hook para validar capacidad de reservas",
+  "keywords": ["directus", "directus-extension", "directus-hook"],
+  "directus:extension": {
+    "type": "hook",
+    "path": "index.js",
+    "source": "index.js",
+    "host": "^10.0.0"
+  }
+}
